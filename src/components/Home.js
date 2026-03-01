@@ -4,6 +4,7 @@ const Home = () => {
   return (
     <div>
       <p>Annamalaiyaar</p>
+      <p>Unnamalaiamman</p>
     </div>
   );
 };
